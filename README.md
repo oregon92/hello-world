@@ -1,5 +1,4 @@
 # hello-world
-Just another repository 
 
 Learning more about GitHub - 
 Createing and using a repository
